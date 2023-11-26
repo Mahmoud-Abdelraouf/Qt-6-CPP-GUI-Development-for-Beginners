@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-49d9eaf8f2acc1c7031e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Teaser",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Teaser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Teaser-Debug-9bc031814b86e8efbf4e.json",
+					"name" : "Teaser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Teaser_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Teaser_autogen-Debug-2132c72b3c4baf1365d3.json",
+					"name" : "Teaser_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Teaser_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Teaser_autogen_timestamp_deps-Debug-08a38798bf907561cefa.json",
+					"name" : "Teaser_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/01.EnvironmentSetup/01.Teaser/build-Teaser-Desktop_Qt_6_3_0_MinGW_64_bit-Debug",
+		"source" : "D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/01.EnvironmentSetup/01.Teaser/Teaser"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

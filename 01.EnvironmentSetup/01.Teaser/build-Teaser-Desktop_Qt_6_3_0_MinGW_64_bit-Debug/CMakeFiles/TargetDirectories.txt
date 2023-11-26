@@ -1,0 +1,9 @@
+D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/01.EnvironmentSetup/01.Teaser/build-Teaser-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/Teaser.dir
+D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/01.EnvironmentSetup/01.Teaser/build-Teaser-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/01.EnvironmentSetup/01.Teaser/build-Teaser-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/01.EnvironmentSetup/01.Teaser/build-Teaser-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/01.EnvironmentSetup/01.Teaser/build-Teaser-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/01.EnvironmentSetup/01.Teaser/build-Teaser-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/01.EnvironmentSetup/01.Teaser/build-Teaser-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/01.EnvironmentSetup/01.Teaser/build-Teaser-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/Teaser_autogen_timestamp_deps.dir
+D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/01.EnvironmentSetup/01.Teaser/build-Teaser-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/Teaser_autogen.dir

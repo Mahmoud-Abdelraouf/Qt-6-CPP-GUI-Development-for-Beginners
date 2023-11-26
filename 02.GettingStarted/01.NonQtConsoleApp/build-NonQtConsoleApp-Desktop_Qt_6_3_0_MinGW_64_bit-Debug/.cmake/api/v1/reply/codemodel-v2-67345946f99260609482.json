@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1d182ec1261a8b0d3582.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NonQtConsoleApp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NonQtConsoleApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NonQtConsoleApp-Debug-7593616f89940022bf1a.json",
+					"name" : "NonQtConsoleApp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/02.GettingStarted/01.NonQtConsoleApp/build-NonQtConsoleApp-Desktop_Qt_6_3_0_MinGW_64_bit-Debug",
+		"source" : "D:/Embedded_Systems_and_Computer_Programming/Software_Projects/CPP_Qt6/02.GettingStarted/01.NonQtConsoleApp/NonQtConsoleApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
