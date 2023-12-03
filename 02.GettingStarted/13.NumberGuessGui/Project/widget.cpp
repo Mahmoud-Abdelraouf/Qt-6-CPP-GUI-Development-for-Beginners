@@ -26,9 +26,9 @@ Widget::Widget(QWidget *parent)
 
     // Disable maximize button
     Qt::WindowFlags flags = windowFlags();
-    flags &= ~Qt::WindowMaximizeButtonHint;
+    flags &= ~(Qt::WindowMaximizeButtonHint); // Disables maximize buttons
+    flags |= Qt::MSWindowsFixedSizeDialogHint; // Prevents resizing by dragging window borders
     setWindowFlags(flags);
-
 }
 
 Widget::~Widget()

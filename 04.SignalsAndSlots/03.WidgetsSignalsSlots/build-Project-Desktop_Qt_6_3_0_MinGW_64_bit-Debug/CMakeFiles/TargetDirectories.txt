@@ -1,0 +1,9 @@
+D:/Projects/Software/Qt-6-CPP-GUI-Development-for-Beginners/04.SignalsAndSlots/03.WidgetsSignalsSlots/build-Project-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/Project.dir
+D:/Projects/Software/Qt-6-CPP-GUI-Development-for-Beginners/04.SignalsAndSlots/03.WidgetsSignalsSlots/build-Project-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Projects/Software/Qt-6-CPP-GUI-Development-for-Beginners/04.SignalsAndSlots/03.WidgetsSignalsSlots/build-Project-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Projects/Software/Qt-6-CPP-GUI-Development-for-Beginners/04.SignalsAndSlots/03.WidgetsSignalsSlots/build-Project-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Projects/Software/Qt-6-CPP-GUI-Development-for-Beginners/04.SignalsAndSlots/03.WidgetsSignalsSlots/build-Project-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Projects/Software/Qt-6-CPP-GUI-Development-for-Beginners/04.SignalsAndSlots/03.WidgetsSignalsSlots/build-Project-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Projects/Software/Qt-6-CPP-GUI-Development-for-Beginners/04.SignalsAndSlots/03.WidgetsSignalsSlots/build-Project-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Projects/Software/Qt-6-CPP-GUI-Development-for-Beginners/04.SignalsAndSlots/03.WidgetsSignalsSlots/build-Project-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/Project_autogen_timestamp_deps.dir
+D:/Projects/Software/Qt-6-CPP-GUI-Development-for-Beginners/04.SignalsAndSlots/03.WidgetsSignalsSlots/build-Project-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/Project_autogen.dir
